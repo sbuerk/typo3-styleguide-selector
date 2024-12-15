@@ -23,7 +23,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "7.x.x-dev"
+            "dev-main": "8.x.x-dev"
         }
     }
 }
