@@ -19,7 +19,7 @@
     },
     "require": {
         "typo3/cms-core": "^12",
-        "typo3/cms-styleguide": "^12.0.0 || 12.*.*@dev"
+        "typo3/cms-styleguide": "^12.0.1 || 12.*.*@dev"
     },
     "extra": {
         "branch-alias": {
