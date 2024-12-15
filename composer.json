@@ -18,8 +18,8 @@
         "sort-packages": true
     },
     "require": {
-        "typo3/cms-core": "^9",
-        "typo3/cms-styleguide": "^9.2.5 || 9.*.*@dev"
+        "typo3/cms-core": "^10",
+        "typo3/cms-styleguide": "^10.0.0 || 10.*.*@dev"
     },
     "extra": {
         "branch-alias": {
