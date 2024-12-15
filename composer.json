@@ -1,0 +1,26 @@
+{
+    "name": "sbuerk/typo3-styleguide-selector",
+    "description": "Meta package to require correct typo3/cms-styleguide version for used TYPO3 version",
+    "type": "metapackage",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stefan Bürk",
+            "email": "stefan@buerk.tech",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/sbuerk/typo3-styleguide-selector/issues",
+        "source": "https://github.com/sbuerk/typo3-styleguide-selector"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-main": "7.x.x-dev"
+        }
+    }
+}
